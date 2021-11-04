@@ -2,12 +2,12 @@
 
   <h2> Project Titles </h2>
   
-<i><h3>Random Color To Background</h3></i>
+<i><h3> 1) Random Color To Background</h3></i>
 
 https://user-images.githubusercontent.com/91744618/140408508-a5bdd548-4bbc-4d0d-9838-a6ea9afc58d0.mp4
 <hr><br>
 
-  <i><h3>Calculator</h3></i>
+
 
 <h2>Please let us know your questions and comments... </h2>
 <hr>
