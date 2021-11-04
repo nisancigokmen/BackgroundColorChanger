@@ -1,0 +1,26 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+#backgroundColor fieldset {
+    width: 32em;
+    height: 8em;
+    display: inline-block;
+    margin-left: 42em;
+    margin-top: 16em;
+    border-radius: 1em;
+    border-color: rgb(255, 255, 0) rgb(0, 0, 255) rgb(255, 0, 0) rgb(0, 255, 0);
+}
+
+#backgroundColor h2 {
+    padding-left: 9em;
+    font-size: 18px;
+}
+
+#backgroundColor button {
+    margin-left: 9em;
+    margin-top: 1em;
+    width: 18em;
+    height: 3em;
+}
