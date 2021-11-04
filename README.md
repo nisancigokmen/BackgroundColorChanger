@@ -1,1 +1,1 @@
-# Basic-Javascript-Examples
+# Basic Javascript Examples
