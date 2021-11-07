@@ -9,7 +9,7 @@ https://user-images.githubusercontent.com/91744618/140408508-a5bdd548-4bbc-4d0d-
 
 
 
-<h2> CONTACT </h2>
+<h2><i>CONTACT</i></h2>
 <a href = "http://www.gmail.com" > nisancigokmen@gmail.com</a> <br>
 <hr>
 <div>
