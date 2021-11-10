@@ -1,12 +1,8 @@
-# Basic Javascript Examples
+# Background Color Changer
 
-  <h2> Project Titles </h2>
-  
-<i><h3> 1) Random Color To Background</h3></i>
 
 https://user-images.githubusercontent.com/91744618/140408508-a5bdd548-4bbc-4d0d-9838-a6ea9afc58d0.mp4
 <hr>
-
 
 
 <h2><i>CONTACT</i></h2>
