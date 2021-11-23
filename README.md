@@ -4,8 +4,6 @@
 https://user-images.githubusercontent.com/91744618/140408508-a5bdd548-4bbc-4d0d-9838-a6ea9afc58d0.mp4
 
 
-
-
 <hr>
 
   <ol>
@@ -17,8 +15,6 @@ https://user-images.githubusercontent.com/91744618/140408508-a5bdd548-4bbc-4d0d-
            <p> &#128151 thank you for giving a time &#128151 </p>
   </ol>
 <hr>
-
-
 
 
 
