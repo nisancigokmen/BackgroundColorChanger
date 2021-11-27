@@ -12,7 +12,7 @@ https://user-images.githubusercontent.com/91744618/140408508-a5bdd548-4bbc-4d0d-
   <h5> get ready to party </h5>
     <li> <p> Click the `change color `</p> </li>
   <li> <p> and start party  &#128516  </p> </li>
-           <p> &#128151 thank you for giving a time &#128151 </p>
+   <p> &#128151 thank you for giving a time &#128151 </p>
   </ol>
 <hr>
 
